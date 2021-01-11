@@ -1,0 +1,566 @@
+
+Material required. The course is based (with the exception of passage on AVL-trees) on the book
+Cormen, Leiserson, Rivest, Stein, Introduction to Algorithms, 2nd edition, The MIT Press 2001.
+
+There should be copies of it in the library. The course covers following sections of the book.
+
+Chapters 2-4 (Getting started, Growth of functions, Recurrences)
+
+Passages 8.1 and 8.2 from chapter 8 (sorting in linear time)
+
+Chapter 9: Medians and order statistics.
+
+Passages 11.1 - 11.4 from chapter 11, Hash Tables (without analysis of open address hashing).
+
+Chapter 12 Binary search trees
+	In relation to this I have covered the basics of AVL trees. You will find material in many books on algorithms, for example
+	Weiss: Data structures and algorithm analysis in Java. Also web contains lots of stuff about AVL trees.
+	You should know what is a balanced binary search tree and how a key is inserted into an AVL tree.
+
+Passage 15.1 from chapter 15; Dynamic Programming
+
+Passages 1.1-1.3 from chapter 1, Greedy algorithms
+
+Passage 18.1 from chapter 18: B-Trees 
+
+Passages 22.1-22.3 from chapter 22, Elementary graph algorithms
+
+Passages 31.1-31.2 and 31.-31.7 from chapter 31, Number-theoretic algorithms
+
+Passages related to Graham's scan convex hull from chapter 33, Computational geometry
+
+Passages 34.1-34.4 from NP-completeness. This I will cover rather informally.
+
+There are exercises in English (also the answers) in the web page for the course.
+
+The contents of Basics of C++ Programming.
+
+You can use as a text book Bruce Eckell's Thinkin in C++ (vol 1 and vol 2) both of which you can download from Internet. There you can find all topics covered in the course.
+
+Other good books in the library are:
+
+Lippman: C++ primer
+Stroustrup: The C++ programming language
+Muldner: C++ programming with design patterns revealed
+
+The course contents is as follows:
+
+1. Introduction to C++
+	General things, basic syntax, variables and control structures.
+
+2. Object-based programming
+	Classes, no inheritance
+	Object construction and destruction, attributes methods and their visibility
+
+3. Dynamic memory allocation
+	Heap-dynamic objects and arrays
+
+4.  Generic programming
+	Template mechanism 
+	Standard Template Library: Containers and iterators, generic algorithms (only most common)
+
+5. Input, output and IOStream library
+	Formatted writing and reading of streams with operators << and >>
+	Also sequential files
+	Binary and random-access files covered, not very important
+
+. Object-oriented programming
+	Composition
+	Operator overloading 
+	Inheritance (no multiple inheritance, only public inheritance)
+
+7. Exception handling
+	Eckell vol 2 chapter 1
+
+8. Polymorphism and dynamic binding
+	Eckell vol 1 chapter 15
+	Template method-pattern
+
+9. Multiple inheritance
+	Should know problems with multiple inheritance
+	We only implement as interface inheritance
+	
+10. Polymorphic containers
+	Containers that contain pointers to base class in a hierarhcy.
+	Pointers point to dynamically allocated objects of any class in the hierarchy
+	These may not be called polymorphic containers in the books but you can find examples of them.
+
+11. Patterns related to object creation
+	Singleton pattern
+	Factory pattern 
+	Virtual constructor (aka Prototype pattern)
+
+
+Material required. The course is based (with the exception of passage on AVL-trees) on the book
+Cormen, Leiserson, Rivest, Stein, Introduction to Algorithms, 2nd edition, The MIT Press 2001.
+
+There should be copies of it in the library. The course covers following sections of the book.
+
+Chapters 2-4 (Getting started, Growth of functions, Recurrences)
+
+Passages 8.1 and 8.2 from chapter 8 (sorting in linear time)
+
+Chapter 9: Medians and order statistics.
+
+Passages 11.1 - 11.4 from chapter 11, Hash Tables (without analysis of open address hashing).
+
+Chapter 12 Binary search trees
+	In relation to this I have covered the basics of AVL trees. You will find material in many books on algorithms, for example
+	Weiss: Data structures and algorithm analysis in Java. Also web contains lots of stuff about AVL trees.
+	You should know what is a balanced binary search tree and how a key is inserted into an AVL tree.
+
+Passage 15.1 from chapter 15; Dynamic Programming
+
+Passages 1.1-1.3 from chapter 1, Greedy algorithms
+
+Passage 18.1 from chapter 18: B-Trees 
+
+Passages 22.1-22.3 from chapter 22, Elementary graph algorithms
+
+Passages 31.1-31.2 and 31.-31.7 from chapter 31, Number-theoretic algorithms
+
+Passages related to Graham's scan convex hull from chapter 33, Computational geometry
+
+Passages 34.1-34.4 from NP-completeness. This I will cover rather informally.
+
+There are exercises in English (also the answers) in the web page for the course.
+
+The contents of Basics of C++ Programming.
+
+You can use as a text book Bruce Eckell's Thinkin in C++ (vol 1 and vol 2) both of which you can download from Internet. There you can find all topics covered in the course.
+
+Other good books in the library are:
+
+Lippman: C++ primer
+Stroustrup: The C++ programming language
+Muldner: C++ programming with design patterns revealed
+
+The course contents is as follows:
+
+1. Introduction to C++
+	General things, basic syntax, variables and control structures.
+
+2. Object-based programming
+	Classes, no inheritance
+	Object construction and destruction, attributes methods and their visibility
+
+3. Dynamic memory allocation
+	Heap-dynamic objects and arrays
+
+4.  Generic programming
+	Template mechanism 
+	Standard Template Library: Containers and iterators, generic algorithms (only most common)
+
+5. Input, output and IOStream library
+	Formatted writing and reading of streams with operators << and >>
+	Also sequential files
+	Binary and random-access files covered, not very important
+
+. Object-oriented programming
+	Composition
+	Operator overloading 
+	Inheritance (no multiple inheritance, only public inheritance)
+
+7. Exception handling
+	Eckell vol 2 chapter 1
+
+8. Polymorphism and dynamic binding
+	Eckell vol 1 chapter 15
+	Template method-pattern
+
+9. Multiple inheritance
+	Should know problems with multiple inheritance
+	We only implement as interface inheritance
+	
+10. Polymorphic containers
+	Containers that contain pointers to base class in a hierarhcy.
+	Pointers point to dynamically allocated objects of any class in the hierarchy
+	These may not be called polymorphic containers in the books but you can find examples of them.
+
+11. Patterns related to object creation
+	Singleton pattern
+	Factory pattern 
+	Virtual constructor (aka Prototype pattern)
+
+
+
+Material required. The course is based (with the exception of passage on AVL-trees) on the book
+Cormen, Leiserson, Rivest, Stein, Introduction to Algorithms, 2nd edition, The MIT Press 2001.
+
+There should be copies of it in the library. The course covers following sections of the book.
+
+Chapters 2-4 (Getting started, Growth of functions, Recurrences)
+
+Passages 8.1 and 8.2 from chapter 8 (sorting in linear time)
+
+Chapter 9: Medians and order statistics.
+
+Passages 11.1 - 11.4 from chapter 11, Hash Tables (without analysis of open address hashing).
+
+Chapter 12 Binary search trees
+	In relation to this I have covered the basics of AVL trees. You will find material in many books on algorithms, for example
+	Weiss: Data structures and algorithm analysis in Java. Also web contains lots of stuff about AVL trees.
+	You should know what is a balanced binary search tree and how a key is inserted into an AVL tree.
+
+Passage 15.1 from chapter 15; Dynamic Programming
+
+Passages 1.1-1.3 from chapter 1, Greedy algorithms
+
+Passage 18.1 from chapter 18: B-Trees 
+
+Passages 22.1-22.3 from chapter 22, Elementary graph algorithms
+
+Passages 31.1-31.2 and 31.-31.7 from chapter 31, Number-theoretic algorithms
+
+Passages related to Graham's scan convex hull from chapter 33, Computational geometry
+
+Passages 34.1-34.4 from NP-completeness. This I will cover rather informally.
+
+There are exercises in English (also the answers) in the web page for the course.
+
+The contents of Basics of C++ Programming.
+
+You can use as a text book Bruce Eckell's Thinkin in C++ (vol 1 and vol 2) both of which you can download from Internet. There you can find all topics covered in the course.
+
+Other good books in the library are:
+
+Lippman: C++ primer
+Stroustrup: The C++ programming language
+Muldner: C++ programming with design patterns revealed
+
+The course contents is as follows:
+
+1. Introduction to C++
+	General things, basic syntax, variables and control structures.
+
+2. Object-based programming
+	Classes, no inheritance
+	Object construction and destruction, attributes methods and their visibility
+
+3. Dynamic memory allocation
+	Heap-dynamic objects and arrays
+
+4.  Generic programming
+	Template mechanism 
+	Standard Template Library: Containers and iterators, generic algorithms (only most common)
+
+5. Input, output and IOStream library
+	Formatted writing and reading of streams with operators << and >>
+	Also sequential files
+	Binary and random-access files covered, not very important
+
+. Object-oriented programming
+	Composition
+	Operator overloading 
+	Inheritance (no multiple inheritance, only public inheritance)
+
+7. Exception handling
+	Eckell vol 2 chapter 1
+
+8. Polymorphism and dynamic binding
+	Eckell vol 1 chapter 15
+	Template method-pattern
+
+9. Multiple inheritance
+	Should know problems with multiple inheritance
+	We only implement as interface inheritance
+	
+10. Polymorphic containers
+	Containers that contain pointers to base class in a hierarhcy.
+	Pointers point to dynamically allocated objects of any class in the hierarchy
+	These may not be called polymorphic containers in the books but you can find examples of them.
+
+11. Patterns related to object creation
+	Singleton pattern
+	Factory pattern 
+	Virtual constructor (aka Prototype pattern)
+
+Material required. The course is based (with the exception of passage on AVL-trees) on the book
+Cormen, Leiserson, Rivest, Stein, Introduction to Algorithms, 2nd edition, The MIT Press 2001.
+
+There should be copies of it in the library. The course covers following sections of the book.
+
+Chapters 2-4 (Getting started, Growth of functions, Recurrences)
+
+Passages 8.1 and 8.2 from chapter 8 (sorting in linear time)
+
+Chapter 9: Medians and order statistics.
+
+Passages 11.1 - 11.4 from chapter 11, Hash Tables (without analysis of open address hashing).
+
+Chapter 12 Binary search trees
+	In relation to this I have covered the basics of AVL trees. You will find material in many books on algorithms, for example
+	Weiss: Data structures and algorithm analysis in Java. Also web contains lots of stuff about AVL trees.
+	You should know what is a balanced binary search tree and how a key is inserted into an AVL tree.
+
+Passage 15.1 from chapter 15; Dynamic Programming
+
+Passages 1.1-1.3 from chapter 1, Greedy algorithms
+
+Passage 18.1 from chapter 18: B-Trees 
+
+Passages 22.1-22.3 from chapter 22, Elementary graph algorithms
+
+Passages 31.1-31.2 and 31.-31.7 from chapter 31, Number-theoretic algorithms
+
+Passages related to Graham's scan convex hull from chapter 33, Computational geometry
+
+Passages 34.1-34.4 from NP-completeness. This I will cover rather informally.
+
+There are exercises in English (also the answers) in the web page for the course.
+
+The contents of Basics of C++ Programming.
+
+You can use as a text book Bruce Eckell's Thinkin in C++ (vol 1 and vol 2) both of which you can download from Internet. There you can find all topics covered in the course.
+
+Other good books in the library are:
+
+Lippman: C++ primer
+Stroustrup: The C++ programming language
+Muldner: C++ programming with design patterns revealed
+
+The course contents is as follows:
+
+1. Introduction to C++
+	General things, basic syntax, variables and control structures.
+
+2. Object-based programming
+	Classes, no inheritance
+	Object construction and destruction, attributes methods and their visibility
+
+3. Dynamic memory allocation
+	Heap-dynamic objects and arrays
+
+4.  Generic programming
+	Template mechanism 
+	Standard Template Library: Containers and iterators, generic algorithms (only most common)
+
+5. Input, output and IOStream library
+	Formatted writing and reading of streams with operators << and >>
+	Also sequential files
+	Binary and random-access files covered, not very important
+
+. Object-oriented programming
+	Composition
+	Operator overloading 
+	Inheritance (no multiple inheritance, only public inheritance)
+
+7. Exception handling
+	Eckell vol 2 chapter 1
+
+8. Polymorphism and dynamic binding
+	Eckell vol 1 chapter 15
+	Template method-pattern
+
+9. Multiple inheritance
+	Should know problems with multiple inheritance
+	We only implement as interface inheritance
+	
+10. Polymorphic containers
+	Containers that contain pointers to base class in a hierarhcy.
+	Pointers point to dynamically allocated objects of any class in the hierarchy
+	These may not be called polymorphic containers in the books but you can find examples of them.
+
+11. Patterns related to object creation
+	Singleton pattern
+	Factory pattern 
+	Virtual constructor (aka Prototype pattern)
+
+
+Material required. The course is based (with the exception of passage on AVL-trees) on the book
+Cormen, Leiserson, Rivest, Stein, Introduction to Algorithms, 2nd edition, The MIT Press 2001.
+
+There should be copies of it in the library. The course covers following sections of the book.
+
+Chapters 2-4 (Getting started, Growth of functions, Recurrences)
+
+Passages 8.1 and 8.2 from chapter 8 (sorting in linear time)
+
+Chapter 9: Medians and order statistics.
+
+Passages 11.1 - 11.4 from chapter 11, Hash Tables (without analysis of open address hashing).
+
+Chapter 12 Binary search trees
+	In relation to this I have covered the basics of AVL trees. You will find material in many books on algorithms, for example
+	Weiss: Data structures and algorithm analysis in Java. Also web contains lots of stuff about AVL trees.
+	You should know what is a balanced binary search tree and how a key is inserted into an AVL tree.
+
+Passage 15.1 from chapter 15; Dynamic Programming
+
+Passages 1.1-1.3 from chapter 1, Greedy algorithms
+
+Passage 18.1 from chapter 18: B-Trees 
+
+Passages 22.1-22.3 from chapter 22, Elementary graph algorithms
+
+Passages 31.1-31.2 and 31.-31.7 from chapter 31, Number-theoretic algorithms
+
+Passages related to Graham's scan convex hull from chapter 33, Computational geometry
+
+Passages 34.1-34.4 from NP-completeness. This I will cover rather informally.
+
+There are exercises in English (also the answers) in the web page for the course.
+
+The contents of Basics of C++ Programming.
+
+You can use as a text book Bruce Eckell's Thinkin in C++ (vol 1 and vol 2) both of which you can download from Internet. There you can find all topics covered in the course.
+
+Other good books in the library are:
+
+Lippman: C++ primer
+Stroustrup: The C++ programming language
+Muldner: C++ programming with design patterns revealed
+
+The course contents is as follows:
+
+1. Introduction to C++
+	General things, basic syntax, variables and control structures.
+
+2. Object-based programming
+	Classes, no inheritance
+	Object construction and destruction, attributes methods and their visibility
+
+3. Dynamic memory allocation
+	Heap-dynamic objects and arrays
+
+4.  Generic programming
+	Template mechanism 
+	Standard Template Library: Containers and iterators, generic algorithms (only most common)
+
+5. Input, output and IOStream library
+	Formatted writing and reading of streams with operators << and >>
+	Also sequential files
+	Binary and random-access files covered, not very important
+
+. Object-oriented programming
+	Composition
+	Operator overloading 
+	Inheritance (no multiple inheritance, only public inheritance)
+
+7. Exception handling
+	Eckell vol 2 chapter 1
+
+8. Polymorphism and dynamic binding
+	Eckell vol 1 chapter 15
+	Template method-pattern
+
+9. Multiple inheritance
+	Should know problems with multiple inheritance
+	We only implement as interface inheritance
+	
+10. Polymorphic containers
+	Containers that contain pointers to base class in a hierarhcy.
+	Pointers point to dynamically allocated objects of any class in the hierarchy
+	These may not be called polymorphic containers in the books but you can find examples of them.
+
+11. Patterns related to object creation
+	Singleton pattern
+	Factory pattern 
+	Virtual constructor (aka Prototype pattern)
+
+
+
+Material required. The course is based (with the exception of passage on AVL-trees) on the book
+Cormen, Leiserson, Rivest, Stein, Introduction to Algorithms, 2nd edition, The MIT Press 2001.
+
+There should be copies of it in the library. The course covers following sections of the book.
+
+Chapters 2-4 (Getting started, Growth of functions, Recurrences)
+
+Passages 8.1 and 8.2 from chapter 8 (sorting in linear time)
+
+Chapter 9: Medians and order statistics.
+
+Passages 11.1 - 11.4 from chapter 11, Hash Tables (without analysis of open address hashing).
+
+Chapter 12 Binary search trees
+	In relation to this I have covered the basics of AVL trees. You will find material in many books on algorithms, for example
+	Weiss: Data structures and algorithm analysis in Java. Also web contains lots of stuff about AVL trees.
+	You should know what is a balanced binary search tree and how a key is inserted into an AVL tree.
+
+Passage 15.1 from chapter 15; Dynamic Programming
+
+Passages 1.1-1.3 from chapter 1, Greedy algorithms
+
+Passage 18.1 from chapter 18: B-Trees 
+
+Passages 22.1-22.3 from chapter 22, Elementary graph algorithms
+
+Passages 31.1-31.2 and 31.-31.7 from chapter 31, Number-theoretic algorithms
+
+Passages related to Graham's scan convex hull from chapter 33, Computational geometry
+
+Passages 34.1-34.4 from NP-completeness. This I will cover rather informally.
+
+There are exercises in English (also the answers) in the web page for the course.
+
+The contents of Basics of C++ Programming.
+
+You can use as a text book Bruce Eckell's Thinkin in C++ (vol 1 and vol 2) both of which you can download from Internet. There you can find all topics covered in the course.
+
+Other good books in the library are:
+
+Lippman: C++ primer
+Stroustrup: The C++ programming language
+Muldner: C++ programming with design patterns revealed
+
+The course contents is as follows:
+
+1. Introduction to C++
+	General things, basic syntax, variables and control structures.
+
+2. Object-based programming
+	Classes, no inheritance
+	Object construction and destruction, attributes methods and their visibility
+
+3. Dynamic memory allocation
+	Heap-dynamic objects and arrays
+
+4.  Generic programming
+	Template mechanism 
+	Standard Template Library: Containers and iterators, generic algorithms (only most common)
+
+5. Input, output and IOStream library
+	Formatted writing and reading of streams with operators << and >>
+	Also sequential files
+	Binary and random-access files covered, not very important
+
+. Object-oriented programming
+	Composition
+	Operator overloading 
+	Inheritance (no multiple inheritance, only public inheritance)
+
+CORMEN THINKIN HAVE BOTH WHICH DOWNLOAD        
+
+7. Exception handling
+	Eckell vol 2 chapter 1
+
+8. Polymorphism and dynamic binding
+	Eckell vol 1 chapter 15
+	Template method-pattern
+
+9. Multiple inheritance
+	Should know problems with multiple inheritance
+	We only implement as interface inheritance
+	
+10. Polymorphic containers
+	Containers that contain pointers to base class in a hierarhcy.
+	Pointers point to dynamically allocated objects of any class in the hierarchy
+	These may not be called polymorphic containers in the books but you can find examples of them.
+
+11. Patterns related to object creation
+	Singleton pattern
+	Factory pattern 
+	Virtual constructor (aka Prototype pattern)
+
+
+INTERNET ALL TOPICS LEISERSON OTHER GOOD COVERS LIPPMAN         
+PRIMER MANY STROUSTRUP LANGUAGE FOLLOWING MULDNER DESIGN          
+RIVEST SECTIONS REVEALED EXAMPLE FOLLOWS GENERAL CHAPTERS        
+WEISS THINGS BASIC           
+
+
+
+
+
+
