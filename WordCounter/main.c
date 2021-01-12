@@ -5,8 +5,9 @@
 #include <time.h>
 
 
-//Oxford dictionary has 171476 words
+//Oxford dictionary has 171476 words.
 #define HASH_TABLE_SIZE 175000
+//Longest official english word is 45 letters.
 #define STRING_SIZE 50
 
 int *pr;
@@ -44,13 +45,9 @@ int main() {
 		clock_t start,end;
 		double totaltime;
 
-		//Fills the array with 0's.
-		//for(int i=0; i < HASH_TABLE_SIZE; i++){
-	     //   hashTable[i] = 0;
-	    //}
 		//Dynamic memory allocation
-		hashTable = (int *)malloc(500000*sizeof(int));
-		original_index = (int *)malloc(500000*sizeof(int));
+		hashTable = (int *)malloc(1000000*sizeof(int));
+		original_index = (int *)malloc(1000000*sizeof(int));
 
 
 		//Fills the array starting from 0.
@@ -133,16 +130,17 @@ int main() {
 		}
 
 	   //Prints the time count.
-	   printf("Running time: %f seconds", totaltime);
+	   printf("Running time: %lf seconds", totaltime);
 	   return(0);
 }
 
 //Returns the hash.
 int hash(char ch[]) {
 	unsigned long hashKey = 7;
-	//Generates the hash for every character. Also multiplies the hash by 34.
+	//Generates the hash for every character. Also multiplies the hash by 33.
+	//Idea taken from https://stackoverflow.com/questions/2624192/good-hash-function-for-strings.
 	for (int i=0; i < strlen(ch); i++) {
-		hashKey = hashKey*31 + ch[i];
+		hashKey = hashKey*33 + ch[i];
 	}
 	return hashKey%HASH_TABLE_SIZE;
 }
