@@ -133,7 +133,7 @@ int main() {
 		}
 
 	   //Prints the time count.
-	   printf("Running time: %lf seconds", totaltime);
+	   printf("Running time: %f seconds", totaltime);
 	   return(0);
 }
 
