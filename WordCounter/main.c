@@ -7,7 +7,7 @@
 
 //Oxford dictionary has 171476 words.
 #define HASH_TABLE_SIZE 175000
-//Longest official english word is 45 letters.
+//The longest official English word is 45 letters.
 #define STRING_SIZE 50
 
 int *pr;
